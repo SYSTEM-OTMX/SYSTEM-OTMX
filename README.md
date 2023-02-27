@@ -3,26 +3,12 @@
 <h1 align="center">Hola !! Mi nombre es Eduardo Ingeniero en Informatica.<img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
-<tr>
-<td>
 
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
-
-</td>
-</tr>
 </table>
 
 
 <br />
 
----
-
-
-<tr>
 <td>
 
 [<img align="right" alt="executor | executor" width="50px" src="./src/executor.png" />][executor]
