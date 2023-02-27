@@ -1,4 +1,4 @@
-[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/SystemOTMX)
+[![MC Technology](src/logogif.gif)](https://www.youtube.com/c/SystemOTMX)
 
 <h1 align="center">Hola !! Mi nombre es Eduardo Ingeniero en Informatica.<img src="./src/wave.gif" width="30px"></h1>
 
