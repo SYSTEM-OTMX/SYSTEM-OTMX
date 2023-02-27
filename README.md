@@ -16,63 +16,10 @@
 </tr>
 </table>
 
-<details>
-  <summary>:zap: About me!</summary>
-
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
-- 🦾 I love the PowerLifting!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
-- 🗒  I am currently very obsected with learning vimscript
-</details>
 
 <br />
 
 ---
-
-<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
-
-<tr>
-<td>
-
-[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4> </td>
-</tr>
-<tr>
-<td>
-
-<img align="right" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
-
-</td>
-<!-- <img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF"> -->
-<td> <h4 align="right"> <a href="https://github.com/mctechnology17/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="right" alt="zmk | zmk-config" width="50px" src="./src/zmk_icon.jpg" />][zmk-config]
-
-</td>
-<td> <h4 align="right"> <a href="https://github.com/mctechnology17/zmk-config/" target="_blank"><code>zmk-config</code></a> </h4> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="qmk | qmk-config" width="50px" src="./src/qmk_icon.png" />][qmk-config]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/qmk-config/" target="_blank"><code>qmk-config</code></a> </h4> </td>
-</tr>
 
 
 <tr>
