@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Lenguajes y Herramientas</h3>
+<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Lenguajes , Bases de Datos y Herramientas</h3>
 <p align="center">
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
