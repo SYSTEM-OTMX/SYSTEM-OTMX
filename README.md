@@ -9,13 +9,7 @@
 
 <br />
 
-<td>
 
-[<img align="right" alt="executor | executor" width="50px" src="./src/executor.png" />][executor]
-
-</td>
-<td> <h4 align="right"> <a href="https://github.com/mctechnology17/vim-executor" target="_blank"><code>executor</code></a> </h4> </td>
-</tr>
 
 <br />
 <br />
